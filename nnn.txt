@@ -1,0 +1,10 @@
+devops 					AWS 
+
+git github      			EC2,load balancer,autoscaling,S3 bucket,route53,
+jenkins
+maven 
+docker 
+ansible 
+
+docker ----kubernates
+terraform
